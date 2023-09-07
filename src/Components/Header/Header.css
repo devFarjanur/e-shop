@@ -1,0 +1,144 @@
+.header{
+    background: #C2EFD4;
+    height: 670px;
+    padding: 20px 30px;
+    
+ }
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.navbar .logo h3{
+    color: #224F34;
+    font-family: Elephant;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 50px;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 47px;
+}
+
+
+.nav-links li a{
+    text-decoration: none;
+    color: #224F34;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.nav-button{
+    list-style: none;
+}
+
+.nav-button a{
+    background: #C2EFD4;
+    text-decoration: none;
+    border-radius: 3px;
+    border: 2px solid #224F34;
+    color: #224F34;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    padding: 15px 20px;
+}
+
+.header2{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header2 h1{
+    color: #224F34;
+    font-family: Rufina;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+   
+    padding-top: 120px;
+    
+}
+
+.header2 h4{
+    color: #267D49;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 52.8px */
+    padding: 0px 300px;
+    margin-bottom: 25px;
+
+}
+
+
+
+.header2 button {
+    padding: 15px 20px;
+    background: #224F34;
+    color: #fff;
+    
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    /* Add box shadow */
+    box-shadow: 6px 33px 59px 0px rgba(0, 0, 0, 0.35);
+}
+
+
+
+
+/* Mobile styles */
+@media screen and (max-width: 480px) {
+    /* CSS for screens up to 768px wide */
+  }
+  
+  /* Tablet styles */
+  @media screen and (min-width: 481px) and (max-width: 768px) {
+    /* CSS for screens between 769px and 1024px wide */
+
+  }
+
+  @media screen and (min-width: 769px) and (max-width: 1024px) {
+    /* CSS for screens between 769px and 1024px wide */
+
+  }
+
+  @media screen and (min-width: 1025px) and (max-width: 1200px) {
+
+
+  }
+  
+  /* Desktop styles */
+  @media screen and (min-width: 1201px) {
+
+    /* CSS for screens wider than 1024px */
+
+    
+
+
+
+  }
+  

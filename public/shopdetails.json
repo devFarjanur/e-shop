@@ -1,0 +1,120 @@
+[
+    {
+        "id": "1",
+        "districts_id": "1",
+        "name": "ElectroTech Emporium",
+        "p_category": "Electronics",
+        "thana": "Amtali",
+        "districts": "Dhaka"
+
+    },
+    {
+        "id": "2",
+        "districts_id": "1",
+        "name": "FashionFusion Boutique",
+        "p_category": "Clothing and Apparel",
+        "thana": "Bamna",
+        "districts": "Dhaka"
+
+    },
+    {
+        "id": "3",
+        "districts_id": "2",
+        "name": "Bloom & Hearth Homestead",
+        "p_category": "Home and Garden",
+        "thana": "Boalmari",
+        "districts": "Faridpur"
+
+    },
+    {
+        "id": "4",
+        "districts_id": "2",
+        "name": "GlowElegance Essentials",
+        "p_category": "Health and Beauty",
+        "thana": "Alfadanga",
+        "districts": "Faridpur"
+
+    },
+    {
+        "id": "5",
+        "districts_id": "3",
+        "name": "Adventure Haven Sports & Gear",
+        "p_category": "Sports and Recreation",
+        "thana": "Kaliakior",
+        "districts": "Gazipur"
+
+    },
+    {
+        "id": "6",
+        "districts_id": "3",
+        "name": "PlayPalace Emporium",
+        "p_category": "Toys and Games",
+        "thana": "Kapasia",
+        "districts": "Gazipur"
+
+    },
+    {
+        "id": "7",
+        "districts_id": "4",
+        "name": "Appliance Universe Warehouse",
+        "p_category": "Home Appliances",
+        "thana": "Kashiani",
+        "districts": "Gopalganj"
+
+    },
+    {
+        "id": "8",
+        "districts_id": "4",
+        "name": "Office Oasis Supplies",
+        "p_category": "Office Supplies",
+        "thana": "Kotalipara",
+        "districts": "Gopalganj"
+
+    },
+    {
+        "id": "9",
+        "districts_id": "5",
+        "name": "Paws and Tails Emporium",
+        "p_category": "Pet Supplies",
+        "thana": "Dewanganj",
+        "districts": "Jamalpur"
+
+    },
+    {
+        "id": "10",
+        "districts_id": "5",
+        "name": "Wanderlust Luggage Boutique",
+        "p_category": "Travel and Luggage",
+        "thana": "Baksiganj",
+        "districts": "Jamalpur"
+
+    },
+    {
+        "id": "11",
+        "districts_id": "6",
+        "name": "FitVitality Emporium",
+        "p_category": "Fitness and Wellness",
+        "thana": "Astagram",
+        "districts": "Kishoreganj"
+
+    },
+    {
+        "id": "12",
+        "districts_id": "6",
+        "name": "CreativeCrafts Haven",
+        "p_category": "Crafts and Hobbies",
+        "thana": "Bajitpur",
+        "districts": "Kishoreganj"
+
+    },
+    {
+        "id": "13",
+        "districts_id": "7",
+        "name": "Lil' Stars Emporium",
+        "p_category": "Baby and Kids",
+        "thana": "Kalkini",
+        "districts": "Madaripur"
+
+    }
+
+]

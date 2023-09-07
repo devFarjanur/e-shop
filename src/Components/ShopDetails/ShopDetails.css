@@ -1,0 +1,7 @@
+.shop-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Four equal-width columns */
+    gap: 10px;
+    padding: 60px 80px;
+  }
+  

@@ -1,0 +1,81 @@
+/* YourComponent.css */
+
+.search-section {
+    display: flex;
+    flex-direction: column; /* Stack components vertically */
+    align-items: center; /* Center align components horizontally */
+    padding-top: 60px;
+  }
+
+  .heading h1{
+    color: #224F34;
+    font-family: Roboto Slab;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 500;
+    line-height: 0px;
+  }
+
+  .heading h6{
+    color: #224F34;
+    font-family: Poppins;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 500;
+    line-height: 0px;
+    
+  }
+
+  .dropdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+  
+
+  /* SearchButton.css */
+
+.search {
+    color: white;
+    background-color:#224F34;
+    padding: 13px 30px;
+    border: none;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+
+  .search:hover{
+    background-color: #FFF;
+    color: black;
+    border: 1px solid #224F34;
+  }
+
+
+
+  /* Style the select elements (inside the Districts, Upazilas, and ProductCategory components) */
+  select {
+    width: 280px; /* Set the width of the dropdown */
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    outline: none;
+    padding: 11px 8px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border-radius: 8px 8px 0px 0px;
+    border: 1.3px solid var(--blues-blue-cta, #267144);
+    background: var(--White, #FFF);
+  }
+
+
+  
+  /* Style select elements when focused */
+  select:focus {
+    border-color: #224F34;
+    box-shadow: 0 0 5px #224F34(0, 123, 255, 0.5);
+  }
+  
